@@ -4,5 +4,8 @@ Computer Graphics assignment using opengl
 1.you must have opengl on your system
 2.gcc installed on your system
 # instruction to run
-type following in comand window or terminal 
+type following in comand window or terminal
+compile:
 gcc filename.c -o filename -lGL -lglut -lGL -lm
+run:
+./filename
