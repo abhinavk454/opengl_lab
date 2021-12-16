@@ -9,9 +9,10 @@ void main()
  printf("Enter the 2nd string :\n");
  scanf("%s",st2);
  int v=strcmp(st1,st2);
- if(v==0)
+ if(v==0){
   printf("strings are same.\n");
- else
+ }
+  else
   printf("string are different.\n");
 }
 
